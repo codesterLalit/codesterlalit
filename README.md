@@ -2,7 +2,7 @@
 
 ![happiness Of shareing](/assets/happiness.jpg)
 
-🎨 Learn
-🧪 Experiement
-🧑‍💻 Build
-🌱 Contribute & Share
+🎨 Learn \
+🧪 Experiement \
+🧑‍💻 Build \
+🌱 Contribute & Share \
